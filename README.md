@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godofcode007
 - 👀 I’m interested in coding, developing apps.
-- 🌱 I’m currently learning c, c++, javascript, phyton. 
+- 🌱 I’m currently learning C, C++, PYTHON, JAVA.
 - 💞️ I’m looking to collaborate on ...!
 - 📫 How to reach me ...!
 
