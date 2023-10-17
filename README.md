@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @godofcode007
-- 👀 I’m interested in coding, developing apps.
-- 🌱 I’m currently learning C, C++, PYTHON, JAVA.
-- 💞️ I’m looking to collaborate on ...!
-- 📫 How to reach me ...!
+- 👋 Hey, I'm @TariqAhmad
+- 👀 Passionate about software development and technology
+- 🌱 Currently learning C/C++, Java, Python, and more
+- 💞️ Open to collaborative projects!
+- 📫 Reach out here 📧
 
 <!---
 godofcode007/godofcode007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
