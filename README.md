@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TARIQ AHMAD</h1>
 <h3 align="center">A Passionate Full-stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
+<img align="center" alt="coding" width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godofcode007&label=Profile%20views&color=0e75b6&style=flat" alt="godofcode007" /> </p>
 
