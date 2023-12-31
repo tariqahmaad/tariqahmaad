@@ -6,7 +6,7 @@
 
 <h3 align="center">A Passionate Full-stack Developer</h3>
 
-<img align="center" alt="coding" width="90%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="center" alt="coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
     style="display: block; margin: 0 auto;">
 
 <p align="left"> <img
