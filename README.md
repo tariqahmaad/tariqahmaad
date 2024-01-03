@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center">A Passionate Full-stack Developer</h3>
-<div style="display: flex;justify-content: center;">
+<div style="display: flex;justify-content: center;  width: 100%;">
     <img align="center" alt="coding" width="750px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
         style="display: block; margin: 0 auto;">
 </div>
