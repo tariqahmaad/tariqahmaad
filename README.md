@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Java, Python, C++, JS**
 
-- 📫 How to reach me **tariq_muzamil@live.com**
+- 📫 How to reach me **ta0xx@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
