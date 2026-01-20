@@ -9,7 +9,7 @@
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=80&lines=Welcome+to+my+Digital+Universe!+%F0%9F%8C%8C;Crafting+Code+%7C+Building+Dreams+%7C+Shipping+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+Digital+Universe!+🌌;Crafting+Code+%7C+Building+Dreams;Full+Stack+Developer+%7C+Tech+Enthusiast;Let's+Build+Something+Amazing!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
